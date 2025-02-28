@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ITDev-Success  
-- 👀 I’m interested in web and mobile development, including modern frameworks like Angular, Ionic, Flutter, and Laravel. I'm also passionate about WebSIG and innovative technologies.  
+- 👀 I’m interested in web and mobile development, including modern frameworks like Django, Flutter, and Laravel. I'm also passionate about WebSIG and innovative technologies.  
 - 🌱 I’m currently learning advanced Flutter techniques and exploring ways to integrate Firebase for authentication and scalable backend solutions.  
 - 💞️ I’m looking to collaborate on fullstack development projects, mobile apps, and ERP integrations, as well as contribute to greentech and educational platforms.  
 - 📫 How to reach me: You can contact me via LinkedIn or email at contact@itdevsuccess.com.  
